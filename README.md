@@ -18,7 +18,3 @@ This repository contains a full implementation of the concepts and techniques co
 - **Receiver Operating Characteristic (ROC) Curve** & **Area Under the Curve (AUC)**
 - **Gini Coefficient** & **Kolmogorov-Smirnov (K-S) Test**
 - Assessing population stability for ongoing model performance
-
-Receiver Operating Characteristic (ROC) Curve & Area Under the Curve (AUC)
-Gini Coefficient & Kolmogorov-Smirnov (K-S) Test
-Assessing population stability for ongoing model performance
