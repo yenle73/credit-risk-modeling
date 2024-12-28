@@ -11,7 +11,7 @@ This repository contains a full implementation of the concepts and techniques co
 
 ## Model Development:
 - **Probability of Default (PD)** Modeling using Logistic Regression
-- **Exposure at Default (EAD)** and **Loss Given Default (LGD)** Modeling
+- **Exposure at Default (EAD)** and **Loss Given Default (LGD)** Modeling (Updating)
 - Building a credit risk scorecard from scratch
 
 ## Model Evaluation:
